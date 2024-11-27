@@ -1,0 +1,35 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 120px;
+    color: #fff;
+}
+.nav-logo{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: 500;
+    color: black;
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 20px;
+    gap: 50px;
+}
+
+.nav-contact{
+    border-radius: 50px;
+    padding: 10px 38px;
+    background: rgb(244, 243, 245);
+    color: rgb(236, 25, 25);
+}
+.nav-Sl{
+    padding: 10px 30px;
+    background: #f9fdf9;
+    cursor: pointer;
+    color: #0e0b0b;
+    border-radius: 20px;
+    
+}
